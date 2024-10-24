@@ -6,4 +6,5 @@
    Program ini menentukan pemenang berdasarkan jumlah soal yang berhasil diselesaikan oleh setiap peserta dalam batas waktu tertentu, serta total waktu yang diperlukan.
    Jika dua peserta memiliki skor yang sama, peserta dengan waktu penyelesaian lebih cepat akan dianggap sebagai pemenang.
 
-3.
+3.Program ini mencari deret dari suatu bilangan yang diinputkan dengan pola yang unik. 
+  Jika angka genap maka berlaku 1/2n, jika angka ganjil maka berlaku 3n+1. Pola deret terus berlaku hingga mencapai angka terakhir yaitu 1.
